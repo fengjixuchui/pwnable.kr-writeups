@@ -26,5 +26,5 @@ Challenge | Available Writeup | Available Exploit
 [memcpy]() | No | No
 [asm]() | No | No
 [unlink]() | No | No
-[blukat]() | No | No
+[blukat](https://github.com/pwn4magic/pwnable.kr-writeups/blob/master/Toddler's%20Bottle/blukat/blukat.md) | Yes | Yes
 [horcruxes]() | No | No
