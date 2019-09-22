@@ -16,7 +16,7 @@ Challenge | Available Writeup | Available Exploit
 [input]() | No | No
 [leg]() | No | No
 [mistake]() | No | No
-[shellshock]() | No | No
+[shellshock](https://github.com/pwn4magic/pwnable.kr-writeups/blob/master/Toddler's%20Bottle/shellshock/shellshock.md) | Yes | Yes
 [coin1]() | No | No
 [blackjack]() | No | No
 [lotto]() | No | No
