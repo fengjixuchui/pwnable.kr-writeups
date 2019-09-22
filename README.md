@@ -10,7 +10,7 @@ Challenge | Available Writeup | Available Exploit
 [fd]() | No | No
 [collision]() | No | No
 [bof]() | No | No
-[flag]() | No | No
+[flag](https://github.com/pwn4magic/pwnable.kr-writeups/blob/master/Toddler's%20Bottle/flag/flag.md) | Yes | Yes
 [passcode]() | No | No
 [random]() | No | No
 [input]() | No | No
